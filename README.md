@@ -1,4 +1,4 @@
-# 💸 Green Expense Tracker App 💸
+# 💸 Text Based Finance Tracker 💸
 ![Python](https://img.shields.io/badge/Python-3.x-blue.svg?style=for-the-badge&logo=python)
 ![Tkinter](https://img.shields.io/badge/Tkinter-UI%20Library-4CAF50.svg?style=for-the-badge&logo=python)
 ![Status](https://img.shields.io/badge/Status-Active-green?style=for-the-badge)
