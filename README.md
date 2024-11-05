@@ -6,7 +6,7 @@
 
 An aesthetic, green-themed expense tracker app built with **Python** and **Tkinter** to manage your income, expenses, and budgets, all with a smooth, easy-to-use graphical interface! 🌱
 
-![Expense Tracker App Screenshot](assets/Screenshot.jpg)
+![Expense Tracker App Screenshot](assets/main_screenshot.jpg)
 
 ---
 
