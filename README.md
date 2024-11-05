@@ -19,8 +19,8 @@ An aesthetic, green-themed expense tracker app built with **Python** and **Tkint
 
 ## 📸 Screenshots
 
-| **Add Transaction** | **Summary View** | **Budget Setting** |
-|---------------------|------------------|---------------------|
+| **Main App** |
+|---------------------|
 | ![App ScreenShot](Screenshot.jpg)|
 
 ---
